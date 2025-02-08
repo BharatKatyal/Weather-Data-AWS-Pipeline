@@ -98,11 +98,14 @@ Conditions: clear sky
 
 ## Project Structure
 ```
-weather-dashboard/
-├── weather_dashboard.py
-├── .env
-├── requirements.txt
-└── README.md
+Weather-Data-AWS-Pipeline/
+├──src/
+   ├── weather_dashboard.py  # Main application file
+   ├── cleanup.py           # AWS cleanup utility
+   ├── .env                 # Environment variables (not in repo)
+   ├── .env.example         # Environment variables template
+   ├── requirements.txt     # Python dependencies
+   └── venv/   
 ```
 
 ## Technologies Used
