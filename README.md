@@ -28,8 +28,8 @@ A Python application that fetches real-time weather data from OpenWeather API an
 
 1. Clone the repository:
    ```bash
-   git clone [your-repository-url]
-   cd [repository-name]
+   git clone https://github.com/BharatKatyal/Weather-Data-AWS-Pipeline.git
+   cd Weather-Data-AWS-Pipeline/src
    ```
 
 2. Set up virtual environment:
