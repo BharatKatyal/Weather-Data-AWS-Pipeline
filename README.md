@@ -88,12 +88,13 @@ Conditions: clear sky
 
 2. Clean up AWS resources:
    ```bash
-   python cleanup.py
+   python3 cleanup.py
    ```
    You will be prompted:
    ```
    Are you sure you want to delete the S3 bucket 'mydevopsdayoneweatherapi'? (yes/no):
    ```
+3. Created resources have been deleted
 
 ## Project Structure
 ```
